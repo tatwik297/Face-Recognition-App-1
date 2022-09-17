@@ -1,0 +1,32 @@
+body 
+{
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ background-color: rgb(236, 248, 2);
+}
+
+.header_div
+{
+    background-color: tomato;
+    color: gainsboro;
+}
+
+.header_div p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: 2.7px;
+}
+
+
+.copy_right_footer {
+    position: fixed;
+    color: aqua;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: springgreen;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px red;
+}
